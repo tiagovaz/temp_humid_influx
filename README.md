@@ -1,3 +1,5 @@
+Somewhere on the Internet there's someone willing to plot.
+
 ```
 <tvaz> I've set a fancy telegraf -> influxdb -> grafana thing for the home sensors, and I regret it
 <tvaz> it seems everybody is willing to use these things for such small projects, but seems really overkill
