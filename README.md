@@ -29,4 +29,6 @@
 <pollo> Stick the baby in a container!
 <pollo> That way you can manage stray fingers more easily :)
 <tvaz> lol
+<joeDoe> get those stray fingers to draw your graphs for you :)
+<tvaz> sold!
 ```
