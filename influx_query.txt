@@ -1,0 +1,8 @@
+from(bucket: "IoT")
+  |> range(start: v.timeRangeStart, stop: v.timeRangeStop)
+  |> filter(fn: (r) => r["_measurement"] == "http")
+  |> filter(fn: (r) => r["_field"] == "dht11_0_temp" or r["_field"] == "dht11_0_humid")
+  |> filter(fn: (r) => r["host"] == "metrics")
+  |> filter(fn: (r) => r["url"] == "http://10.0.0.127")
+  |> aggregateWindow(every: v.windowPeriod, fn: mean, createEmpty: true)
+  |> yield(name: "mean")

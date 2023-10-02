@@ -1,0 +1,9 @@
+{
+  "device": "FISHINO_2",
+  "dht11": [
+    {
+      "temp": 23.6,
+      "humid": 58
+    }
+  ]
+}
