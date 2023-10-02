@@ -22,4 +22,7 @@
 <tvaz> so you spend 5$ in your microcontroler setup, then you need a 200$/year VPS and 7 crash courses in order to plot your data
 <tvaz> then you go to bed around 3am and wakeup at 6am with baby's fingers inside your nose
 <tvaz> that was my monday mild rant, thanks for listening
+<pollo> Stick the baby in a container!
+<pollo> That way you can manage stray fingers more easily :)
+<tvaz> lol
 ```
