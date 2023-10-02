@@ -1,4 +1,6 @@
-Somewhere on the Internet there's someone willing to plot.
+### Somewhere on the Internet... there will be someone willing to plot.
+
+![Screenshot](influxdb_chart.png)
 
 ```
 <tvaz> I've set a fancy telegraf -> influxdb -> grafana thing for the home sensors, and I regret it
